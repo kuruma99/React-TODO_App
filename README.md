@@ -7,6 +7,9 @@ This is a todo app implemented using react.js
 # Clone this repo
 git clone https://github.com/kuruma99/React-TODO_App
 
+# Open the directory
+cd React-TODO_App
+
 # Install dependencies
 npm install
 
@@ -18,7 +21,7 @@ npm run build
 ``` 
 
 ## Features
-[x] No frameworks used like bootstrap
-[x] Custom CSS
-[x] No database used
-[x] Enabled React Routing
+-[x] No frameworks used like bootstrap
+-[x] Custom CSS
+-[x] No database used
+-[x] Enabled React Routing
