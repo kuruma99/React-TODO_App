@@ -1,6 +1,9 @@
 # React TODO APP
 This is a todo app implemented using react.js
 
+## Preview
+![todo](pictures/todo.png)
+
 ## Installation
 
 ```bash
@@ -16,12 +19,10 @@ npm install
 # Serve on localhost:3000
 npm start
 
-# Build for production
-npm run build
 ``` 
 
 ## Features
--[x] No frameworks used like bootstrap
--[x] Custom CSS
--[x] No database used
--[x] Enabled React Routing
+- [x] No frameworks used like bootstrap
+- [x] Custom CSS
+- [x] No database used
+- [x] Enabled React Routing
